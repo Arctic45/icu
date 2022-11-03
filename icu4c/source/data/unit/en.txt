@@ -732,6 +732,13 @@ en{
                 other{"{0} metric tons"}
             }
         }
+        population{
+            people{
+                dnam{"people"}
+                one{"{0} person"}
+                other{"{0} people"}
+            }
+        }
         power{
             gigawatt{
                 dnam{"gigawatts"}
@@ -1705,6 +1712,13 @@ en{
                 other{"{0}t"}
             }
         }
+        population{
+            people{
+                dnam{"ppl"}
+                one{"{0}person"}
+                other{"{0}ppl"}
+            }
+        }
         power{
             gigawatt{
                 dnam{"GW"}
@@ -2668,6 +2682,13 @@ en{
                 dnam{"t"}
                 one{"{0} t"}
                 other{"{0} t"}
+            }
+        }
+        population{
+            people{
+                dnam{"ppl"}
+                one{"{0} person"}
+                other{"{0} ppl"}
             }
         }
         power{

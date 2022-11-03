@@ -4941,6 +4941,44 @@ ru{
                 other{"{0} тонны"}
             }
         }
+        population{
+            people{
+                case{
+                    accusative{
+                        one{"{0} человек"}
+                        other{"{0} человекам"}
+                    }
+                    dative{
+                        one{"{0} человеку"}
+                        other{"{0} человекам"}
+                    }
+                    genitive{
+                        one{"{0} человека"}
+                        other{"{0} человек"}
+                    }
+                    instrumental{
+                        one{"{0} человеком"}
+                        other{"{0} человеками"}
+                    }
+                    locative{
+                        one{"{0} человеке"}
+                        other{"{0} человеках"}
+                    }
+                    prepositional{
+                        one{"{0} человеке"}
+                        other{"{0} человеках"}
+                    }
+                    vocative{
+                        one{"{0} человек"}
+                        other{"{0} человек"}
+                    }
+                }
+                dnam{"человек"}
+                gender{"masculine"}
+                one{"{0} человек"}
+                other{"{0} человек"}
+            }
+        }
         power{
             gigawatt{
                 case{
@@ -7732,6 +7770,13 @@ ru{
                 other{"{0} т"}
             }
         }
+        population{
+            people{
+                dnam{"чел."}
+                one{"{0}чел."}
+                other{"{0}чел."}
+            }
+        }
         power{
             kilowatt{
                 few{"{0} кВт"}
@@ -8794,6 +8839,13 @@ ru{
                 many{"{0} т"}
                 one{"{0} т"}
                 other{"{0} т"}
+            }
+        }
+        population{
+            people{
+                dnam{"чел."}
+                one{"{0} чел."}
+                other{"{0} чел."}
             }
         }
         power{

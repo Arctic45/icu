@@ -150,6 +150,8 @@ public class UnitsData {
                 simpleUnits.add(key.toString());
                 simpleUnitCategories.add(Categories.baseUnitToIndex.get(target));
             }
+			// TODO: this is an ad-hoc fix, probably smth missing in CLDR
+			simpleUnits.add("people");
 
             this.simpleUnits = simpleUnits.toArray(new String[0]);
             this.simpleUnitCategories = new int[simpleUnitCategories.size()];

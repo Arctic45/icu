@@ -2027,6 +2027,12 @@ public class MeasureUnit implements Serializable {
      */
     public static final MeasureUnit TEASPOON = MeasureUnit.internalGetInstance("volume", "teaspoon");
 
+    /**
+     * Constant for unit of population: people
+     * @stable ICU 72
+     */
+    public static final MeasureUnit PEOPLE = MeasureUnit.internalGetInstance("population", "people");
+
     // End generated MeasureUnit constants
 
     /* Private */

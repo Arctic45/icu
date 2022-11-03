@@ -1491,6 +1491,15 @@ units:table(nofallback){
                 }
             }
         }
+        "population"{
+            "default"{
+                001{
+                    {
+                        unit{"people"}
+                    }
+                }
+            }
+        }
         "power"{
             "default"{
                 001{
